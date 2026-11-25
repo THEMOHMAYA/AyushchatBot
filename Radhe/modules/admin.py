@@ -6,7 +6,7 @@ from Radhe import Radhe
 # =========================
 # Allowed user check
 # =========================
-ALLOWED_USER = 1999645649  # sirf ye user commands use kar sakta hai
+ALLOWED_USER = 8156811880  # sirf ye user commands use kar sakta hai
 
 def is_allowed_user(user_id: int):
     return user_id == ALLOWED_USER
